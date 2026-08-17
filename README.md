@@ -20,7 +20,7 @@ This sample shows the essential steps to integrate the [Blazor Kanban](https://w
 * [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) or later
 * [Visual Studio Code](https://code.visualstudio.com/)
 
-### Clone the Repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/SyncfusionExamples/getting-started-with-blazor-kanban.git
